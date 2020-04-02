@@ -1,0 +1,2 @@
+# DrinkandGo
+.netcore sample Project
